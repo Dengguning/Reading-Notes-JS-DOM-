@@ -14,6 +14,7 @@ Reading Notes of  "JavaScript DOM" "DOM Scripting- Web Design with JavaScript an
 </script>
 ```
 
+An external file: xxx.js
 ```javascript
 function insertParagraph(text) {
   var str = "<p>";
@@ -22,5 +23,17 @@ function insertParagraph(text) {
   document.write(str);
 }
 ```
+
+Before /body
+```javascript
+<script>
+  insertParagraph("This is inserted.")
+</script>
+```
+
+
+
+
+
 
 
