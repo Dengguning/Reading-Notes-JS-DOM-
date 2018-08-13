@@ -13,11 +13,14 @@ Reading Notes of  "JavaScript DOM" "DOM Scripting- Web Design with JavaScript an
   document.write("<p>This is inserted.</p>");
 </script>
 ```
+
+```javascript
 function insertParagraph(text) {
 var str = "<p>";
 str += text;
 str += "</p>";
 document.write(str);
 }
+```
 
 
