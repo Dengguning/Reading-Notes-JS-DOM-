@@ -3,6 +3,14 @@ Reading Notes of  "JavaScript DOM" "DOM Scripting- Web Design with JavaScript an
 
 ##### In the next few days, I will update the other chapters and exercises of the examples.
 
+## Chapter 3
+
+## Chapter 4
+
+## Chapter 5
+
+## Chapter 6
+
 ## Chapter 7
 ### Creating Markup on The Fly
 #### What this chapter covers:
