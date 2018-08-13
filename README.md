@@ -8,8 +8,10 @@ Reading Notes of  "JavaScript DOM" "DOM Scripting- Web Design with JavaScript an
 * DOM methods createElement, createTextNode, appendChild and insertBefore
 
 ##### document.write
+```javascript
 <script>
   document.write("<p>This is inserted.</p>");
 </script>
+```
 
 
