@@ -1,6 +1,6 @@
 # Reading-Notes-JS-DOM-
 Reading Notes of  "JavaScript DOM" "DOM Scripting- Web Design with JavaScript and the Document Object Model"
-(In the next few days, I will update the other chapters and exercises of the examples.)
+[In the next few days, I will update the other chapters and exercises of the examples.]
 
 ## Chapter 7
 ### Creating Markup on The Fly
