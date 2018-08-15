@@ -41,6 +41,62 @@ Before /body
 </script>
 ```
 
+##### InnerHTML
+```html
+<div id="testdiv">
+</div>
+```
+
+An external file: xxx.js
+```javascript
+window.onload = function() {
+  var testdiv = document.getElementById("testdiv");
+  testdiv.innerHTML = "I inserted this content.";
+}
+```
+
+
+####  DOM methods
+
+##### createElement
+
+This is a two-step process.
+1.Create the new element.
+2.Insert the element into the node tree.
+
+This is the syntax:
+```javascript
+document.createElement(nodeName);
+```
+
+This statement will create a paragraph element:
+```javascript
+document.createElement("p");
+```
+
+It's a gooed idea to assign the newly created element to a variable:
+```javascript
+var para = document.createElement("p");
+```
+
+An external file: xxx.js:
+
+```javascript
+window.onload = funcion {
+  var para = document.createElement("p"); 
+  var info = "nodeName"; 
+  info += para.nodeName; 
+  info += " nodeType: "; 
+  info += para.nodeTYpe; 
+  alert(info); 
+}
+```
+
+
+
+
+
+
 
 
 
