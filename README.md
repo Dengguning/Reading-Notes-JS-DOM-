@@ -13,7 +13,7 @@ Reading Notes of  "JavaScript DOM" "DOM Scripting- Web Design with JavaScript an
 
 ## Chapter 7
 ### Creating Markup on The Fly
-[Show the gallery]()
+[Show the gallery](https://dengguning.github.io/Reading-Notes-JS-DOM-/ "Link to the Gallery")
 #### What this chapter covers:
 * "old school" techniques: document.write and innerHTML
 * DOM methods createElement, createTextNode, appendChild and insertBefore
